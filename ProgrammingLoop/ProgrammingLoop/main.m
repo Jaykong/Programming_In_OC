@@ -11,14 +11,20 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
 #pragma mark - farabinumber sum
-        int inputNum;
+        int inputNum = 3;
         NSLog(@"the number you input is:");
       //  scanf("%i",&inputNum);
+        for (int j = 1; j < 3; ++j) {
        int total = 0;
         for (int i = 1; i <= inputNum; ++i) {
+            NSLog(@"after contine");
             total += i;
+            continue;
         }
-        NSLog(@"%i",total);
+            NSLog(@"total:%i",total);
+        }
+        
+        
         
 #pragma mark - gcd great common divisor - while loop
         int u = 20;

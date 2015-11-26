@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A99FAFBC1C02A490008E0F21 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A99FAFBB1C02A490008E0F21 /* main.m */; };
+		A9B772591C0404EE00762738 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A9B772581C0404EE00762738 /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		A99FAFB61C02A490008E0F21 /* CopyFiles */ = {
+		A9B772531C0404EE00762738 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -23,12 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		A99FAFB81C02A490008E0F21 /* chp7_moreOnClasses */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = chp7_moreOnClasses; sourceTree = BUILT_PRODUCTS_DIR; };
-		A99FAFBB1C02A490008E0F21 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A9B772551C0404EE00762738 /* Cha9_polymorismDynamicTypingDanamicBinding */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Cha9_polymorismDynamicTypingDanamicBinding; sourceTree = BUILT_PRODUCTS_DIR; };
+		A9B772581C0404EE00762738 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A99FAFB51C02A490008E0F21 /* Frameworks */ = {
+		A9B772521C0404EE00762738 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -38,94 +38,94 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A99FAFAF1C02A490008E0F21 = {
+		A9B7724C1C0404EE00762738 = {
 			isa = PBXGroup;
 			children = (
-				A99FAFBA1C02A490008E0F21 /* chp7_moreOnClasses */,
-				A99FAFB91C02A490008E0F21 /* Products */,
+				A9B772571C0404EE00762738 /* Cha9_polymorismDynamicTypingDanamicBinding */,
+				A9B772561C0404EE00762738 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A99FAFB91C02A490008E0F21 /* Products */ = {
+		A9B772561C0404EE00762738 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A99FAFB81C02A490008E0F21 /* chp7_moreOnClasses */,
+				A9B772551C0404EE00762738 /* Cha9_polymorismDynamicTypingDanamicBinding */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A99FAFBA1C02A490008E0F21 /* chp7_moreOnClasses */ = {
+		A9B772571C0404EE00762738 /* Cha9_polymorismDynamicTypingDanamicBinding */ = {
 			isa = PBXGroup;
 			children = (
-				A99FAFBB1C02A490008E0F21 /* main.m */,
+				A9B772581C0404EE00762738 /* main.m */,
 			);
-			path = chp7_moreOnClasses;
+			path = Cha9_polymorismDynamicTypingDanamicBinding;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A99FAFB71C02A490008E0F21 /* chp7_moreOnClasses */ = {
+		A9B772541C0404EE00762738 /* Cha9_polymorismDynamicTypingDanamicBinding */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A99FAFBF1C02A490008E0F21 /* Build configuration list for PBXNativeTarget "chp7_moreOnClasses" */;
+			buildConfigurationList = A9B7725C1C0404EE00762738 /* Build configuration list for PBXNativeTarget "Cha9_polymorismDynamicTypingDanamicBinding" */;
 			buildPhases = (
-				A99FAFB41C02A490008E0F21 /* Sources */,
-				A99FAFB51C02A490008E0F21 /* Frameworks */,
-				A99FAFB61C02A490008E0F21 /* CopyFiles */,
+				A9B772511C0404EE00762738 /* Sources */,
+				A9B772521C0404EE00762738 /* Frameworks */,
+				A9B772531C0404EE00762738 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = chp7_moreOnClasses;
-			productName = chp7_moreOnClasses;
-			productReference = A99FAFB81C02A490008E0F21 /* chp7_moreOnClasses */;
+			name = Cha9_polymorismDynamicTypingDanamicBinding;
+			productName = Cha9_polymorismDynamicTypingDanamicBinding;
+			productReference = A9B772551C0404EE00762738 /* Cha9_polymorismDynamicTypingDanamicBinding */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A99FAFB01C02A490008E0F21 /* Project object */ = {
+		A9B7724D1C0404EE00762738 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0710;
 				ORGANIZATIONNAME = trainer;
 				TargetAttributes = {
-					A99FAFB71C02A490008E0F21 = {
+					A9B772541C0404EE00762738 = {
 						CreatedOnToolsVersion = 7.1.1;
 					};
 				};
 			};
-			buildConfigurationList = A99FAFB31C02A490008E0F21 /* Build configuration list for PBXProject "chp7_moreOnClasses" */;
+			buildConfigurationList = A9B772501C0404EE00762738 /* Build configuration list for PBXProject "Cha9_polymorismDynamicTypingDanamicBinding" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = A99FAFAF1C02A490008E0F21;
-			productRefGroup = A99FAFB91C02A490008E0F21 /* Products */;
+			mainGroup = A9B7724C1C0404EE00762738;
+			productRefGroup = A9B772561C0404EE00762738 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A99FAFB71C02A490008E0F21 /* chp7_moreOnClasses */,
+				A9B772541C0404EE00762738 /* Cha9_polymorismDynamicTypingDanamicBinding */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A99FAFB41C02A490008E0F21 /* Sources */ = {
+		A9B772511C0404EE00762738 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A99FAFBC1C02A490008E0F21 /* main.m in Sources */,
+				A9B772591C0404EE00762738 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A99FAFBD1C02A490008E0F21 /* Debug */ = {
+		A9B7725A1C0404EE00762738 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -168,7 +168,7 @@
 			};
 			name = Debug;
 		};
-		A99FAFBE1C02A490008E0F21 /* Release */ = {
+		A9B7725B1C0404EE00762738 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -204,14 +204,14 @@
 			};
 			name = Release;
 		};
-		A99FAFC01C02A490008E0F21 /* Debug */ = {
+		A9B7725D1C0404EE00762738 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		A99FAFC11C02A490008E0F21 /* Release */ = {
+		A9B7725E1C0404EE00762738 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -221,25 +221,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A99FAFB31C02A490008E0F21 /* Build configuration list for PBXProject "chp7_moreOnClasses" */ = {
+		A9B772501C0404EE00762738 /* Build configuration list for PBXProject "Cha9_polymorismDynamicTypingDanamicBinding" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A99FAFBD1C02A490008E0F21 /* Debug */,
-				A99FAFBE1C02A490008E0F21 /* Release */,
+				A9B7725A1C0404EE00762738 /* Debug */,
+				A9B7725B1C0404EE00762738 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A99FAFBF1C02A490008E0F21 /* Build configuration list for PBXNativeTarget "chp7_moreOnClasses" */ = {
+		A9B7725C1C0404EE00762738 /* Build configuration list for PBXNativeTarget "Cha9_polymorismDynamicTypingDanamicBinding" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A99FAFC01C02A490008E0F21 /* Debug */,
-				A99FAFC11C02A490008E0F21 /* Release */,
+				A9B7725D1C0404EE00762738 /* Debug */,
+				A9B7725E1C0404EE00762738 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A99FAFB01C02A490008E0F21 /* Project object */;
+	rootObject = A9B7724D1C0404EE00762738 /* Project object */;
 }

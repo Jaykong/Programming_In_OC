@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Chp7_MoreOnClasses/Chp7_MoreOnClasses.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Projects/ShowText/ShowText.xcodeproj">
    </FileRef>
 </Workspace>

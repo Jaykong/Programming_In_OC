@@ -237,6 +237,7 @@
 				A99FAFC11C02A490008E0F21 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

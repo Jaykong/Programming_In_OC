@@ -2,15 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:ProgrammingLoop/ProgrammingLoop.xcodeproj">
+      location = "group:Chp7_MoreOnClasses/Chp7_MoreOnClasses.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:ConvertDegree/ConvertDegree.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:InvalidConstants/InvalidConstants.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Prog1/Prog1.xcodeproj">
+      location = "group:Projects/ShowText/ShowText.xcodeproj">
    </FileRef>
 </Workspace>

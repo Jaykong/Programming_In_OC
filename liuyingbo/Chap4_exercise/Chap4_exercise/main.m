@@ -73,16 +73,16 @@ NSlog(@"The number is %e", double);
         
         }
 
-        (void) setReal: (double) a{
+        －(void) setReal: (double) a{
             
             
             real = a;
         }
-        (void) setImaginary: (double) b{
+        －(void) setImaginary: (double) b{
             
             imaginary = b;
         }
-        (void) print{// display as a + bi
+        －(void) print{// display as a + bi
             
             
             NSlog(@"%d + %di", a, b);

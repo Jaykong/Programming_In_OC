@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0710"
+   LastUpgradeVersion = "0720"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3CEB5F161BDDD399004E448C"
-               BuildableName = "oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;"
-               BlueprintName = "oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;"
-               ReferencedContainer = "container:oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;.xcodeproj">
+               BlueprintIdentifier = "3C2369EE1C22AC600099FE77"
+               BuildableName = "WXLchap2"
+               BlueprintName = "WXLchap2"
+               ReferencedContainer = "container:WXLchap2.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3CEB5F161BDDD399004E448C"
-            BuildableName = "oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;"
-            BlueprintName = "oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;"
-            ReferencedContainer = "container:oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;.xcodeproj">
+            BlueprintIdentifier = "3C2369EE1C22AC600099FE77"
+            BuildableName = "WXLchap2"
+            BlueprintName = "WXLchap2"
+            ReferencedContainer = "container:WXLchap2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3CEB5F161BDDD399004E448C"
-            BuildableName = "oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;"
-            BlueprintName = "oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;"
-            ReferencedContainer = "container:oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;.xcodeproj">
+            BlueprintIdentifier = "3C2369EE1C22AC600099FE77"
+            BuildableName = "WXLchap2"
+            BlueprintName = "WXLchap2"
+            ReferencedContainer = "container:WXLchap2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3CEB5F161BDDD399004E448C"
-            BuildableName = "oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;"
-            BlueprintName = "oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;"
-            ReferencedContainer = "container:oc&#x7b2c;&#x4e8c;&#x7ae0;&#x8bfe;&#x540e;&#x4e60;&#x9898;.xcodeproj">
+            BlueprintIdentifier = "3C2369EE1C22AC600099FE77"
+            BuildableName = "WXLchap2"
+            BlueprintName = "WXLchap2"
+            ReferencedContainer = "container:WXLchap2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
